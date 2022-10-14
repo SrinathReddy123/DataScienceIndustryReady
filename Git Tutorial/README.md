@@ -58,7 +58,7 @@ As part of this project, we have achieved below things.
     Push the changes in the staging area to the remote main branch in Git. 
     We can replace the main branch with any other branch name.
     
-    <img width="442" alt="6 GitPush" src="https://user-images.githubusercontent.com/90196559/195889190-ca201a6a-87f8-41fd-9a91-1485e49d3693.png">
+   <img width="442" alt="6 GitPush" src="https://user-images.githubusercontent.com/90196559/195889190-ca201a6a-87f8-41fd-9a91-1485e49d3693.png">
 
   
    7.Git Pull
@@ -96,7 +96,7 @@ As part of this project, we have achieved below things.
   To delete remote branch:  
     git push origin --d remotebranchname   
     
-    <img width="371" alt="9 GitBranch" src="https://user-images.githubusercontent.com/90196559/195889485-de588775-784d-4283-965b-b4a876bc3c62.png">
+  <img width="371" alt="9 GitBranch" src="https://user-images.githubusercontent.com/90196559/195889485-de588775-784d-4283-965b-b4a876bc3c62.png">
 
     
   10.Other Branch commands:
@@ -126,7 +126,7 @@ As part of this project, we have achieved below things.
 
     git diff
     
-    <img width="298" alt="13 Git Diff" src="https://user-images.githubusercontent.com/90196559/195889858-2e2b802d-e9a8-407c-a406-acc74ee7d151.png">
+   <img width="298" alt="13 Git Diff" src="https://user-images.githubusercontent.com/90196559/195889858-2e2b802d-e9a8-407c-a406-acc74ee7d151.png">
 
 
    14.Git clone
@@ -142,7 +142,7 @@ As part of this project, we have achieved below things.
      view all stashes:
      git stash list 
      
-     <img width="473" alt="15 Git stash" src="https://user-images.githubusercontent.com/90196559/195889970-ccefe002-c417-4418-9d98-7662144c0a6c.png">
+   <img width="473" alt="15 Git stash" src="https://user-images.githubusercontent.com/90196559/195889970-ccefe002-c417-4418-9d98-7662144c0a6c.png">
 
 
 2.Created this project as an open-source project.
