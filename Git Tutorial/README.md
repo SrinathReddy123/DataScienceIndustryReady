@@ -59,6 +59,7 @@ As part of this project, we have achieved below things.
     We can replace the main branch with any other branch name.
     
     <img width="442" alt="6 GitPush" src="https://user-images.githubusercontent.com/90196559/195889190-ca201a6a-87f8-41fd-9a91-1485e49d3693.png">
+
   
    7.Git Pull
    Pull commits from the remote branch into your local branch.
@@ -96,6 +97,7 @@ As part of this project, we have achieved below things.
     git push origin --d remotebranchname   
     
     <img width="371" alt="9 GitBranch" src="https://user-images.githubusercontent.com/90196559/195889485-de588775-784d-4283-965b-b4a876bc3c62.png">
+
     
   10.Other Branch commands:
   git branch -d srinath
@@ -125,6 +127,7 @@ As part of this project, we have achieved below things.
     git diff
     
     <img width="298" alt="13 Git Diff" src="https://user-images.githubusercontent.com/90196559/195889858-2e2b802d-e9a8-407c-a406-acc74ee7d151.png">
+
 
    14.Git clone
     clones 1 copy other's git repository in our local repository
